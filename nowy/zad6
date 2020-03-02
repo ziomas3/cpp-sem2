@@ -1,0 +1,1 @@
+plot "wynik1.dat", sin(x) 

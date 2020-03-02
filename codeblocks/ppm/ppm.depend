@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495453866 source:d:\kopia lapka\codeblocks\ppm\main.cpp
+	<iostream>
+	<fstream>
+

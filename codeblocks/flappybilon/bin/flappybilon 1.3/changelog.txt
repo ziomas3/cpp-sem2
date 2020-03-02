@@ -1,0 +1,17 @@
+1.3
+-dodano animacje pocz¹tkowa
+-podmiana tekstur
+1.2
+- dodano menu glowne pod przyciskiem "Escape"
+- dodano mozliwosc wylaczenia dzwiekow w menu opcji
+- dodano mozliwosc resetu aktualnej rozgrywki oraz najlepszego wyniku w menu opcji
+- dodano losowa predkosc przeszkod po przekroczeniu 25 w wyniku
+- optymalizacja kodu
+1.1
+- dodano menu pauzy pod klawiszem "P"
+- dodano wyswietlanie wyniku 
+- dodano wyswietlanie najlepszego wyniku
+- duza optymalizacja kodu
+1.0
+- pierwsza wersja gry
+- dzia³aj¹ca rozgrywka

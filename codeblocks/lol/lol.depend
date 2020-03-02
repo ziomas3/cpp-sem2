@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491849938 source:c:\users\zioma\desktop\codeblocks\lol\main.cpp
+	<iostream>
+
+1491865025 source:d:\kopia lapka\codeblocks\lol\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
